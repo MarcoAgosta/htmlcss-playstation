@@ -11,8 +11,31 @@
     padding: 2rem 0;
 }
 
+
 .btn-warning {
     color: white;
     background-color: orangered;
     border-color: orangered;
+    border-radius: 2rem;
+}
+
+.text-center h6{
+    color: blue;
+    font-size: .7rem;
+}
+
+.text-center p{
+    color: gray;
+}
+
+.playstation5{
+    border-bottom: 1px solid blue;
+}
+
+.card-body h5{
+    text-align: center;
+    margin-top: 2rem;
+    color: gray;
+    font-size: 1rem;
+    margin-top: 10px;
 }
