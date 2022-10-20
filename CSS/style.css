@@ -105,3 +105,31 @@ nav{
 .social{
     max-width: 720px;
 }
+
+footer{
+    background-color: #0070D1;
+}
+
+footer p{
+    color: white;
+}
+
+footer li{
+    color: white;
+}
+
+.fa-playstation{
+    color: white;
+    font-size: 5rem;
+}
+
+.list-group{
+    --bs-list-group-bg: #0070D1;
+    --bs-list-group-border-width: 0px;
+    --bs-list-group-color: white;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+}
